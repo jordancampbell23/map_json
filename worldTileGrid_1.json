@@ -9,8 +9,8 @@
     "subRegion": "Southern Asia",
     "regionCode": 142,
     "subRegionCode": 34,
-    "x": 0,
-    "y": 0
+    "x": 22,
+    "y": 8
   },
   {
     "name": "Albania",
@@ -529,7 +529,7 @@
     "subRegion": "Central America",
     "regionCode": 19,
     "subRegionCode": 13,
-    "x": 1,
+    "x": 3,
     "y": 7
   },
   {
@@ -1844,6 +1844,19 @@
     "subRegionCode": 151,
     "x": 17,
     "y": 6
+  },
+  {
+    "name": "Russia",
+    "alpha2": "RU",
+    "alpha3": "RUS",
+    "countryCode": 643,
+    "iso3166-2": "ISO 3166-2:RU",
+    "region": "Europe",
+    "subRegion": "Eastern Europe",
+    "regionCode": 150,
+    "subRegionCode": 151,
+    "x": 0,
+    "y": 20
   },
   {
     "name": "Rwanda",
