@@ -1846,19 +1846,6 @@
     "y": 6
   },
   {
-    "name": "Russia",
-    "alpha2": "RU",
-    "alpha3": "RUS",
-    "countryCode": 643,
-    "iso3166-2": "ISO 3166-2:RU",
-    "region": "Europe",
-    "subRegion": "Eastern Europe",
-    "regionCode": 150,
-    "subRegionCode": 151,
-    "x": 25,
-    "y": 4
-  },
-  {
     "name": "Rwanda",
     "alpha2": "RW",
     "alpha3": "RWA",
