@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Cedar Rapids",
+    "type": "city",
+    "coordinates": [
+      -91.6656232,
+      41.9778795
+    ]
+  },
+  {
+    "name": "Des Moines",
+    "type": "city",
+    "coordinates": [
+      -93.6091064,
+      41.6005448
+    ]
+  },
+  {
+    "name": "Dubuque",
+    "type": "city",
+    "coordinates": [
+      -90.6645718,
+      42.5005583
+    ]
+  },
+  {
+    "name": "Iowa City",
+    "type": "city",
+    "coordinates": [
+      -91.53016830000001,
+      41.6611277
+    ]
+  },
+  {
+    "name": "Sioux City",
+    "type": "city",
+    "coordinates": [
+      -96.4003069,
+      42.4999942
+    ]
+  }
+]
