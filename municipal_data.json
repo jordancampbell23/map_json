@@ -1,0 +1,1201 @@
+[{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9387, 40.6627]},
+    "state_abv": "NY",
+    "state": "New York",
+    "city": "New York",
+    "total_liabilities": 305000000000,
+    "revenues": 95921699000,
+    "lib_rev_ratio": 318.28,
+    "population": 8804190
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4108, 34.0194]},
+    "state_abv": "CA",
+    "state": "California",
+    "city": "Los Angeles",
+    "total_liabilities": 50943508000,
+    "revenues": 17463553000,
+    "lib_rev_ratio": 291.71,
+    "population": 3898747
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-87.6849, 41.837]},
+    "state_abv": "IL",
+    "state": "Illinois",
+    "city": "Chicago",
+    "total_liabilities": 69251891000,
+    "revenues": 11215375000,
+    "lib_rev_ratio": 617.47,
+    "population": 2746388
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-95.3888, 29.7857]},
+    "state_abv": "TX",
+    "state": "Texas",
+    "city": "Houston",
+    "total_liabilities": 25651079000,
+    "revenues": 5507561000,
+    "lib_rev_ratio": 465.74,
+    "population": 2304580
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-112.0901, 33.5722]},
+    "state_abv": "AZ",
+    "state": "Arizona",
+    "city": "Phoenix",
+    "total_liabilities": 13930794000,
+    "revenues": 4219483000,
+    "lib_rev_ratio": 330.15,
+    "population": 1608139
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-75.1333, 40.0094]},
+    "state_abv": "PA",
+    "state": "Pennsylvania",
+    "city": "Philadelphia",
+    "total_liabilities": 19141711000,
+    "revenues": 8677695000,
+    "lib_rev_ratio": 220.59,
+    "population": 1603797
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-98.5243, 29.4634]},
+    "state_abv": "TX",
+    "state": "Texas",
+    "city": "San Antonio",
+    "total_liabilities": 6535995000,
+    "revenues": 2570306000,
+    "lib_rev_ratio": 254.29,
+    "population": 1434625
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1356, 32.815]},
+    "state_abv": "CA",
+    "state": "California",
+    "city": "San Diego",
+    "total_liabilities": 7466528000,
+    "revenues": 3435873000,
+    "lib_rev_ratio": 217.31,
+    "population": 1386932
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-96.7665, 32.7933]},
+    "state_abv": "TX",
+    "state": "Texas",
+    "city": "Dallas",
+    "total_liabilities": 12969622000,
+    "revenues": 3181977000,
+    "lib_rev_ratio": 407.6,
+    "population": 1304379
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-121.8146, 37.296]},
+    "state_abv": "CA",
+    "state": "California",
+    "city": "San Jose",
+    "total_liabilities": 7622101000,
+    "revenues": 2880708000,
+    "lib_rev_ratio": 264.59,
+    "population": 1013240
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-97.7527, 30.3012]},
+    "state_abv": "TX",
+    "state": "Texas",
+    "city": "Austin",
+    "total_liabilities": 15202009000,
+    "revenues": 4246064000,
+    "lib_rev_ratio": 358.03,
+    "population": 961855
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-81.6616, 30.3369]},
+    "state_abv": "FL",
+    "state": "Florida",
+    "city": "Jacksonville",
+    "total_liabilities": 6319925000,
+    "revenues": 2123471000,
+    "lib_rev_ratio": 297.62,
+    "population": 949611
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-97.3467, 32.7815]},
+    "state_abv": "TX",
+    "state": "Texas",
+    "city": "Fort Worth",
+    "total_liabilities": 6248476000,
+    "revenues": 2590058000,
+    "lib_rev_ratio": 241.25,
+    "population": 918915
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-84.87, 32.51]},
+    "state_abv": "OH",
+    "state": "Ohio",
+    "city": "Columbus",
+    "total_liabilities": 7128521000,
+    "revenues": 2468026000,
+    "lib_rev_ratio": 288.83,
+    "population": 905748
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-86.1459, 39.7767]},
+    "state_abv": "IN",
+    "state": "Indiana",
+    "city": "Indianapolis",
+    "total_liabilities": 2742963000,
+    "revenues": 1256985000,
+    "lib_rev_ratio": 218.22,
+    "population": 887642
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-80.831, 35.209]},
+    "state_abv": "NC",
+    "state": "North Carolina",
+    "city": "Charlotte",
+    "total_liabilities": 6759442000,
+    "revenues": 2284998000,
+    "lib_rev_ratio": 295.82,
+    "population": 874579
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-123.0322, 37.7272]},
+    "state_abv": "CA",
+    "state": "California",
+    "city": "San Francisco",
+    "total_liabilities": 34557584000,
+    "revenues": 12519966000,
+    "lib_rev_ratio": 276.02,
+    "population": 873965
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.3516, 47.6193]},
+    "state_abv": "WA",
+    "state": "Washington",
+    "city": "Seattle",
+    "total_liabilities": 9163846000,
+    "revenues": 4581734000,
+    "lib_rev_ratio": 200.01,
+    "population": 737015
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-104.8811, 39.7619]},
+    "state_abv": "CO",
+    "state": "Colorado",
+    "city": "Denver",
+    "total_liabilities": 11288224000,
+    "revenues": 3707605000,
+    "lib_rev_ratio": 304.46,
+    "population": 715522
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0165, 38.9042]},
+    "state_abv": "DC",
+    "state": "District of Columbia",
+    "city": "Washington",
+    "total_liabilities": 17091665000,
+    "revenues": 16397733000,
+    "lib_rev_ratio": 104.23,
+    "population": 689545
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-97.5137, 35.4671]},
+    "state_abv": "OK",
+    "state": "Oklahoma",
+    "city": "Oklahoma",
+    "total_liabilities": 2204253000,
+    "revenues": 1077290000,
+    "lib_rev_ratio": 204.61,
+    "population": 681054
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-106.4311, 31.8478]},
+    "state_abv": "TX",
+    "state": "Texas",
+    "city": "El Paso",
+    "total_liabilities": 2782722728,
+    "revenues": 933071876,
+    "lib_rev_ratio": 298.23,
+    "population": 678815
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0183, 42.3386]},
+    "state_abv": "MA",
+    "state": "Massachusetts",
+    "city": "Boston",
+    "total_liabilities": 6518670000,
+    "revenues": 4259188000,
+    "lib_rev_ratio": 153.05,
+    "population": 675647
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.65, 45.537]},
+    "state_abv": "OR",
+    "state": "Oregon",
+    "city": "Portland",
+    "total_liabilities": 9174347541,
+    "revenues": 2330517610,
+    "lib_rev_ratio": 393.66,
+    "population": 652503
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-115.264, 36.2335]},
+    "state_abv": "NV",
+    "state": "Nevada",
+    "city": "Las Vegas",
+    "total_liabilities": 1814290240,
+    "revenues": 1224995479,
+    "lib_rev_ratio": 148.11,
+    "population": 641903
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-83.1022, 42.383]},
+    "state_abv": "MI",
+    "state": "Michigan",
+    "city": "Detroit",
+    "total_liabilities": 5377049394,
+    "revenues": 2155139212,
+    "lib_rev_ratio": 249.5,
+    "population": 639111
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-89.9675, 35.109]},
+    "state_abv": "TN",
+    "state": "Tennessee",
+    "city": "Memphis",
+    "total_liabilities": 4403060000,
+    "revenues": 2869453000,
+    "lib_rev_ratio": 153.45,
+    "population": 633104
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.6105, 39.3]},
+    "state_abv": "MD",
+    "state": "Maryland",
+    "city": "Baltimore",
+    "total_liabilities": 9195780000,
+    "revenues": 3193101000,
+    "lib_rev_ratio": 287.99,
+    "population": 585708
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-87.9667, 43.0633]},
+    "state_abv": "WI",
+    "state": "Wisconsin",
+    "city": "Milwaukee",
+    "total_liabilities": 4631245000,
+    "revenues": 1288626000,
+    "lib_rev_ratio": 359.39,
+    "population": 577222
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-106.6468, 35.1048]},
+    "state_abv": "NM",
+    "state": "New Mexico",
+    "city": "Albuquerque",
+    "total_liabilities": 2308654159,
+    "revenues": 1120158995,
+    "lib_rev_ratio": 206.1,
+    "population": 564559
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-110.8708, 32.153]},
+    "state_abv": "AZ",
+    "state": "Arizona",
+    "city": "Tucson",
+    "total_liabilities": 2732347205,
+    "revenues": 1303599945,
+    "lib_rev_ratio": 209.6,
+    "population": 542629
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-119.7934, 36.7827]},
+    "state_abv": "CA",
+    "state": "California",
+    "city": "Fresno",
+    "total_liabilities": 1541934000,
+    "revenues": 873186000,
+    "lib_rev_ratio": 176.59,
+    "population": 542107
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-121.4682, 38.5677]},
+    "state_abv": "CA",
+    "state": "California",
+    "city": "Sacramento",
+    "total_liabilities": 3150700000,
+    "revenues": 1344723000,
+    "lib_rev_ratio": 234.3,
+    "population": 524943
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-94.5551, 39.1224]},
+    "state_abv": "MO",
+    "state": "Missouri",
+    "city": "Kansas",
+    "total_liabilities": 5330276000,
+    "revenues": 1917677000,
+    "lib_rev_ratio": 277.95,
+    "population": 508090
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-111.7165, 33.4006]},
+    "state_abv": "AZ",
+    "state": "Arizona",
+    "city": "Mesa",
+    "total_liabilities": 3946213000,
+    "revenues": 1110314000,
+    "lib_rev_ratio": 355.41,
+    "population": 504258
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-84.4227, 33.7629]},
+    "state_abv": "GA",
+    "state": "Georgia",
+    "city": "Atlanta",
+    "total_liabilities": 10846929000,
+    "revenues": 2620248000,
+    "lib_rev_ratio": 413.97,
+    "population": 498715
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-96.0535, 41.2627]},
+    "state_abv": "NE",
+    "state": "Nebraska",
+    "city": "Omaha",
+    "total_liabilities": 3055956416,
+    "revenues": 945243629,
+    "lib_rev_ratio": 323.3,
+    "population": 486051
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-104.7607, 38.8673]},
+    "state_abv": "CO",
+    "state": "Colorado",
+    "city": "Colorado Springs",
+    "total_liabilities": 3956973674,
+    "revenues": 1409978178,
+    "lib_rev_ratio": 280.64,
+    "population": 478961
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-78.6415, 35.8302]},
+    "state_abv": "NC",
+    "state": "North Carolina",
+    "city": "Raleigh",
+    "total_liabilities": 2241239412,
+    "revenues": 973529224,
+    "lib_rev_ratio": 230.22,
+    "population": 467665
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-118.1682, 33.7808]},
+    "state_abv": "CA",
+    "state": "California",
+    "city": "Long Beach",
+    "total_liabilities": 5018598000,
+    "revenues": 1908857000,
+    "lib_rev_ratio": 262.91,
+    "population": 466742
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.0291, 36.7795]},
+    "state_abv": "VA",
+    "state": "Virginia",
+    "city": "Virginia Beach",
+    "total_liabilities": 2174515595,
+    "revenues": 1632118091,
+    "lib_rev_ratio": 133.23,
+    "population": 459470
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-80.2086, 25.7752]},
+    "state_abv": "FL",
+    "state": "Florida",
+    "city": "Miami",
+    "total_liabilities": 2854317892,
+    "revenues": 1024569536,
+    "lib_rev_ratio": 278.59,
+    "population": 442241
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-122.2257, 37.7698]},
+    "state_abv": "CA",
+    "state": "California",
+    "city": "Oakland",
+    "total_liabilities": 3808291000,
+    "revenues": 1318041000,
+    "lib_rev_ratio": 288.94,
+    "population": 440646
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-93.2683, 44.9633]},
+    "state_abv": "MN",
+    "state": "Minnesota",
+    "city": "Minneapolis",
+    "total_liabilities": 1730749000,
+    "revenues": 1147425000,
+    "lib_rev_ratio": 150.84,
+    "population": 429954
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-95.9023, 36.1279]},
+    "state_abv": "OK",
+    "state": "Oklahoma",
+    "city": "Tulsa",
+    "total_liabilities": 1315222000,
+    "revenues": 679703000,
+    "lib_rev_ratio": 193.5,
+    "population": 413066
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-119.0369, 35.3536]},
+    "state_abv": "CA",
+    "state": "California",
+    "city": "Bakersfield",
+    "total_liabilities": 815271946,
+    "revenues": 595392599,
+    "lib_rev_ratio": 136.93,
+    "population": 403455
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-97.3458, 37.6906]},
+    "state_abv": "KS",
+    "state": "Kansas",
+    "city": "Wichita",
+    "total_liabilities": 1466116636,
+    "revenues": 672981776,
+    "lib_rev_ratio": 217.85,
+    "population": 397532
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-97.1247, 32.7007]},
+    "state_abv": "TX",
+    "state": "Texas",
+    "city": "Arlington",
+    "total_liabilities": 2015112000,
+    "revenues": 988707000,
+    "lib_rev_ratio": 203.81,
+    "population": 394266
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-104.6897, 39.688]},
+    "state_abv": "CO",
+    "state": "Colorado",
+    "city": "Aurora",
+    "total_liabilities": 1061881120,
+    "revenues": 1158643331,
+    "lib_rev_ratio": 91.65,
+    "population": 386261
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-82.4746, 27.9679]},
+    "state_abv": "FL",
+    "state": "Florida",
+    "city": "Tampa",
+    "total_liabilities": 1547995667,
+    "revenues": 992365061,
+    "lib_rev_ratio": 155.99,
+    "population": 384959
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-81.6794, 41.4785]},
+    "state_abv": "OH",
+    "state": "Ohio",
+    "city": "Cleveland",
+    "total_liabilities": 4080064000,
+    "revenues": 1566228000,
+    "lib_rev_ratio": 260.5,
+    "population": 372624
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.7587, 33.8555]},
+    "state_abv": "CA",
+    "state": "California",
+    "city": "Anaheim",
+    "total_liabilities": 3138253000,
+    "revenues": 1248256000,
+    "lib_rev_ratio": 251.41,
+    "population": 346824
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-84.4583, 38.0407]},
+    "state_abv": "KY",
+    "state": "Kentucky",
+    "city": "Lexington",
+    "total_liabilities": 1657659630,
+    "revenues": 612169719,
+    "lib_rev_ratio": 270.78,
+    "population": 322570
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-121.3133, 37.9763]},
+    "state_abv": "CA",
+    "state": "California",
+    "city": "Stockton",
+    "total_liabilities": 1157881712,
+    "revenues": 547984345,
+    "lib_rev_ratio": 211.3,
+    "population": 320804
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-97.1734, 27.7543]},
+    "state_abv": "TX",
+    "state": "Texas",
+    "city": "Corpus Christi",
+    "total_liabilities": 1928720995,
+    "revenues": 667414021,
+    "lib_rev_ratio": 288.98,
+    "population": 317863
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-115.0358, 36.0102]},
+    "state_abv": "NV",
+    "state": "Nevada",
+    "city": "Henderson",
+    "total_liabilities": 1048710549,
+    "revenues": 586622261,
+    "lib_rev_ratio": 178.77,
+    "population": 317610
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.3932, 33.9381]},
+    "state_abv": "CA",
+    "state": "California",
+    "city": "Riverside",
+    "total_liabilities": 2997462000,
+    "revenues": 933925000,
+    "lib_rev_ratio": 320.95,
+    "population": 314998
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.8829, 33.7363]},
+    "state_abv": "CA",
+    "state": "California",
+    "city": "Santa Ana",
+    "total_liabilities": 1014020583,
+    "revenues": 529268827,
+    "lib_rev_ratio": 191.59,
+    "population": 310227
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-84.5058, 39.1402]},
+    "state_abv": "OH",
+    "state": "Ohio",
+    "city": "Cincinnati",
+    "total_liabilities": 3389782000,
+    "revenues": 1101279000,
+    "lib_rev_ratio": 307.8,
+    "population": 309317
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.7713, 33.6784]},
+    "state_abv": "CA",
+    "state": "California",
+    "city": "Irvine",
+    "total_liabilities": 247393000,
+    "revenues": 380188000,
+    "lib_rev_ratio": 65.07,
+    "population": 307670
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-81.2548, 28.4086]},
+    "state_abv": "FL",
+    "state": "Florida",
+    "city": "Orlando",
+    "total_liabilities": 2034575660,
+    "revenues": 1079325407,
+    "lib_rev_ratio": 188.5,
+    "population": 307573
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-79.9763, 40.4398]},
+    "state_abv": "PA",
+    "state": "Pennsylvania",
+    "city": "Pittsburgh",
+    "total_liabilities": 1836357586,
+    "revenues": 607218809,
+    "lib_rev_ratio": 302.42,
+    "population": 302971
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-90.2446, 38.6357]},
+    "state_abv": "MO",
+    "state": "Missouri",
+    "city": "St. Louis",
+    "total_liabilities": 3262271000,
+    "revenues": 1137784000,
+    "lib_rev_ratio": 286.72,
+    "population": 301578
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-79.827, 36.0951]},
+    "state_abv": "NC",
+    "state": "North Carolina",
+    "city": "Greensboro",
+    "total_liabilities": 1170826645,
+    "revenues": 613360174,
+    "lib_rev_ratio": 190.89,
+    "population": 299035
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0648, 40.7114]},
+    "state_abv": "NJ",
+    "state": "New Jersey",
+    "city": "Jersey",
+    "total_liabilities": 1091412205,
+    "revenues": 1049105487,
+    "lib_rev_ratio": 104.03,
+    "population": 292449
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-149.2843, 61.1743]},
+    "state_abv": "AK",
+    "state": "Alaska",
+    "city": "Anchorage",
+    "total_liabilities": 2088430610,
+    "revenues": 1354654207,
+    "lib_rev_ratio": 154.17,
+    "population": 291247
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-96.6789, 40.809]},
+    "state_abv": "NE",
+    "state": "Nebraska",
+    "city": "Lincoln",
+    "total_liabilities": 1682625102,
+    "revenues": 878865771,
+    "lib_rev_ratio": 191.45,
+    "population": 291082
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-96.7479, 33.0508]},
+    "state_abv": "TX",
+    "state": "Texas",
+    "city": "Plano",
+    "total_liabilities": 747692669,
+    "revenues": 649535368,
+    "lib_rev_ratio": 115.11,
+    "population": 285494
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-78.901, 35.9801]},
+    "state_abv": "NC",
+    "state": "North Carolina",
+    "city": "Durham",
+    "total_liabilities": 1029720774,
+    "revenues": 556945244,
+    "lib_rev_ratio": 184.89,
+    "population": 283506
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-111.8518, 33.2828]},
+    "state_abv": "AZ",
+    "state": "Arizona",
+    "city": "Chandler",
+    "total_liabilities": 993301804,
+    "revenues": 577349614,
+    "lib_rev_ratio": 172.05,
+    "population": 275987
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.0152, 32.6277]},
+    "state_abv": "CA",
+    "state": "California",
+    "city": "Chula Vista",
+    "total_liabilities": 596108688,
+    "revenues": 390392795,
+    "lib_rev_ratio": 152.69,
+    "population": 275487
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-83.5819, 41.6641]},
+    "state_abv": "OH",
+    "state": "Ohio",
+    "city": "Toledo",
+    "total_liabilities": 1732226000,
+    "revenues": 561603000,
+    "lib_rev_ratio": 308.44,
+    "population": 270871
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-111.7432, 33.3102]},
+    "state_abv": "AZ",
+    "state": "Arizona",
+    "city": "Gilbert",
+    "total_liabilities": 648695650,
+    "revenues": 445353665,
+    "lib_rev_ratio": 145.66,
+    "population": 267918
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-119.8499, 39.5491]},
+    "state_abv": "NV",
+    "state": "Nevada",
+    "city": "Reno",
+    "total_liabilities": 1064576354,
+    "revenues": 478643006,
+    "lib_rev_ratio": 222.42,
+    "population": 264165
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-85.1439, 41.0891]},
+    "state_abv": "IN",
+    "state": "Indiana",
+    "city": "Fort Wayne",
+    "total_liabilities": 1390532275,
+    "revenues": 573922167,
+    "lib_rev_ratio": 242.29,
+    "population": 263886
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-115.0875, 36.282]},
+    "state_abv": "NV",
+    "state": "Nevada",
+    "city": "North Las Vegas",
+    "total_liabilities": 756950708,
+    "revenues": 492604694,
+    "lib_rev_ratio": 153.66,
+    "population": 262527
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-82.6441, 27.7627]},
+    "state_abv": "FL",
+    "state": "Florida",
+    "city": "St. Petersburg",
+    "total_liabilities": 1355292248,
+    "revenues": 662235246,
+    "lib_rev_ratio": 204.65,
+    "population": 258308
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-101.8889, 33.5655]},
+    "state_abv": "TX",
+    "state": "Texas",
+    "city": "Lubbock",
+    "total_liabilities": 1869606346,
+    "revenues": 749999064,
+    "lib_rev_ratio": 249.28,
+    "population": 257141
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-96.97, 32.8577]},
+    "state_abv": "TX",
+    "state": "Texas",
+    "city": "Irving",
+    "total_liabilities": 1041752554,
+    "revenues": 465446366,
+    "lib_rev_ratio": 223.82,
+    "population": 256684
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-99.4892, 27.5604]},
+    "state_abv": "TX",
+    "state": "Texas",
+    "city": "Laredo",
+    "total_liabilities": 1409404951,
+    "revenues": 526385016,
+    "lib_rev_ratio": 267.75,
+    "population": 255205
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-80.2608, 36.1029]},
+    "state_abv": "NC",
+    "state": "North Carolina",
+    "city": "Winston-Salem",
+    "total_liabilities": 1083821870,
+    "revenues": 452557098,
+    "lib_rev_ratio": 239.49,
+    "population": 249545
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.3018, 36.6794]},
+    "state_abv": "VA",
+    "state": "Virginia",
+    "city": "Chesapeake",
+    "total_liabilities": 1137616969,
+    "revenues": 855449210,
+    "lib_rev_ratio": 132.98,
+    "population": 249422
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-112.1899, 33.5331]},
+    "state_abv": "AZ",
+    "state": "Arizona",
+    "city": "Glendale",
+    "total_liabilities": 1364207000,
+    "revenues": 552856000,
+    "lib_rev_ratio": 246.76,
+    "population": 248325
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-96.6303, 32.9098]},
+    "state_abv": "TX",
+    "state": "Texas",
+    "city": "Garland",
+    "total_liabilities": 1457720709,
+    "revenues": 726223208,
+    "lib_rev_ratio": 200.73,
+    "population": 246018
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-111.8614, 33.6843]},
+    "state_abv": "AZ",
+    "state": "Arizona",
+    "city": "Scottsdale",
+    "total_liabilities": 1672194000,
+    "revenues": 802015000,
+    "lib_rev_ratio": 208.5,
+    "population": 241361
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-76.2446, 36.923]},
+    "state_abv": "VA",
+    "state": "Virginia",
+    "city": "Norfolk",
+    "total_liabilities": 2126539198,
+    "revenues": 936078688,
+    "lib_rev_ratio": 227.18,
+    "population": 238005
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-116.2298, 43.6002]},
+    "state_abv": "ID",
+    "state": "Idaho",
+    "city": "Boise",
+    "total_liabilities": 224761000,
+    "revenues": 479054000,
+    "lib_rev_ratio": 46.92,
+    "population": 235684
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-121.9411, 37.4945]},
+    "state_abv": "CA",
+    "state": "California",
+    "city": "Fremont",
+    "total_liabilities": 675792497,
+    "revenues": 389180841,
+    "lib_rev_ratio": 173.64,
+    "population": 230504
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.4333, 47.6669]},
+    "state_abv": "WA",
+    "state": "Washington",
+    "city": "Spokane",
+    "total_liabilities": 886969987,
+    "revenues": 584541313,
+    "lib_rev_ratio": 151.74,
+    "population": 228989
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4947, 34.4141]},
+    "state_abv": "CA",
+    "state": "California",
+    "city": "Santa Clarita",
+    "total_liabilities": 217263369,
+    "revenues": 255859577,
+    "lib_rev_ratio": 84.92,
+    "population": 228673
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-77.476, 37.5314]},
+    "state_abv": "VA",
+    "state": "Virginia",
+    "city": "Richmond",
+    "total_liabilities": 2594525942,
+    "revenues": 1190816721,
+    "lib_rev_ratio": 217.88,
+    "population": 226610
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-80.3029, 25.8699]},
+    "state_abv": "FL",
+    "state": "Florida",
+    "city": "Hialeah",
+    "total_liabilities": 1038077167,
+    "revenues": 330547538,
+    "lib_rev_ratio": 314.05,
+    "population": 223109
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.2946, 34.1411]},
+    "state_abv": "CA",
+    "state": "California",
+    "city": "San Bernardino",
+    "total_liabilities": 700249533,
+    "revenues": 260211842,
+    "lib_rev_ratio": 269.11,
+    "population": 222101
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-121.003, 37.6375]},
+    "state_abv": "CA",
+    "state": "California",
+    "city": "Modesto",
+    "total_liabilities": 910981832,
+    "revenues": 434550143,
+    "lib_rev_ratio": 209.64,
+    "population": 218464
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-86.5326, 34.7823]},
+    "state_abv": "AL",
+    "state": "Alabama",
+    "city": "Huntsville",
+    "total_liabilities": 1335234757,
+    "revenues": 444428253,
+    "lib_rev_ratio": 300.44,
+    "population": 215006
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-93.6102, 41.5726]},
+    "state_abv": "IA",
+    "state": "Iowa",
+    "city": "Des Moines",
+    "total_liabilities": 866817685,
+    "revenues": 508221864,
+    "lib_rev_ratio": 170.56,
+    "population": 214133
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8674, 40.9459]},
+    "state_abv": "NY",
+    "state": "New York",
+    "city": "Yonkers",
+    "total_liabilities": 4915299122,
+    "revenues": 1249122727,
+    "lib_rev_ratio": 393.5,
+    "population": 211569
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.2057, 33.9233]},
+    "state_abv": "CA",
+    "state": "California",
+    "city": "Moreno Valley",
+    "total_liabilities": 221955207,
+    "revenues": 214352086,
+    "lib_rev_ratio": 103.55,
+    "population": 208634
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-78.9735, 35.0828]},
+    "state_abv": "NC",
+    "state": "North Carolina",
+    "city": "Fayetteville",
+    "total_liabilities": 237274660,
+    "revenues": 229636558,
+    "lib_rev_ratio": 103.33,
+    "population": 208501
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-117.46, 34.1]},
+    "state_abv": "CA",
+    "state": "California",
+    "city": "Fontana",
+    "total_liabilities": 346535100,
+    "revenues": 268182993,
+    "lib_rev_ratio": 129.22,
+    "population": 208393
+}]
