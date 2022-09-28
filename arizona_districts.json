@@ -1,0 +1,85 @@
+[{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-112.0901, 33.5722]},
+    "state_abv": "AZ",
+    "state": "Arizona",
+    "city": "Phoenix",
+    "total_liabilities": 13930794000,
+    "revenues": 4219483000,
+    "lib_rev_ratio": 330.15,
+    "population": 1608139
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-110.8708, 32.153]},
+    "state_abv": "AZ",
+    "state": "Arizona",
+    "city": "Tucson",
+    "total_liabilities": 2732347205,
+    "revenues": 1303599945,
+    "lib_rev_ratio": 209.6,
+    "population": 542629
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-111.7165, 33.4006]},
+    "state_abv": "AZ",
+    "state": "Arizona",
+    "city": "Mesa",
+    "total_liabilities": 3946213000,
+    "revenues": 1110314000,
+    "lib_rev_ratio": 355.41,
+    "population": 504258
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-111.8518, 33.2828]},
+    "state_abv": "AZ",
+    "state": "Arizona",
+    "city": "Chandler",
+    "total_liabilities": 993301804,
+    "revenues": 577349614,
+    "lib_rev_ratio": 172.05,
+    "population": 275987
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-111.7432, 33.3102]},
+    "state_abv": "AZ",
+    "state": "Arizona",
+    "city": "Gilbert",
+    "total_liabilities": 648695650,
+    "revenues": 445353665,
+    "lib_rev_ratio": 145.66,
+    "population": 267918
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-112.1899, 33.5331]},
+    "state_abv": "AZ",
+    "state": "Arizona",
+    "city": "Glendale",
+    "total_liabilities": 1364207000,
+    "revenues": 552856000,
+    "lib_rev_ratio": 246.76,
+    "population": 248325
+}, {
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-111.8614, 33.6843]},
+    "state_abv": "AZ",
+    "state": "Arizona",
+    "city": "Scottsdale",
+    "total_liabilities": 1672194000,
+    "revenues": 802015000,
+    "lib_rev_ratio": 208.5,
+    "population": 241361
+}]
